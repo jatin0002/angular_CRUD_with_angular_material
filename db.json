@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone 13 Pro Max",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 25499,
+      "comment": "This is good condition iphone. ",
+      "date": "2022-07-13T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "iQOO SE9",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 27999,
+      "comment": "Best phone ever",
+      "date": "2022-07-14T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
